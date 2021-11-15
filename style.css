@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.438);
+  background-image: url("./food-shopping-t.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+  font-size: larger !important;
+
+  text-align: center !important;
+}
+
+thead {
+  background-color: rgba(0, 0, 0, 0.233);
+}
+
+/* .foo {
+  padding: auto 50px;
+  display: flex;
+  justify-content: right;
+} */
+
+.head {
+  text-align: center;
+  margin: 50px auto;
+}
+
+#table {
+  color: rgb(206, 223, 240) !important;
+  border-radius: 0.25em;
+  box-shadow: 0 0 0.25em rgba(209, 163, 163, 0.25);
+  box-sizing: border-box;
+  left: 50%;
+  padding: 10vmin;
+  /* position: fixed; */
+  text-align: center;
+  top: 50%;
+  /* transform: translate(-50%, -50%); */
+}
+
+h1 {
+  color: rgb(126, 224, 241);
+  font-weight: bold;
+}

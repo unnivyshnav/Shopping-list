@@ -1,0 +1,91 @@
+[
+  {
+    "sNo": 1,
+    "iName": "Rice",
+    "qty": 10,
+    "unit": "kg",
+    "dept": "Grocery",
+    "note": "White Rice"
+  },
+
+  {
+    "sNo": 2,
+    "iName": "Salt",
+    "qty": 1,
+    "unit": "Kg",
+    "dept": "Grocery",
+    "note": "Tata Salt"
+  },
+
+  {
+    "sNo": 3,
+    "iName": "Sugar",
+    "qty": 1,
+    "unit": "Kg",
+    "dept": "Grocery",
+    "note": "Fine Powder"
+  },
+
+  {
+    "sNo": 4,
+    "iName": "Coffee Powder",
+    "qty": 200,
+    "unit": "Gm",
+    "dept": "Grocery",
+    "note": "Bru Instant"
+  },
+
+  {
+    "sNo": 5,
+    "iName": "Tomato",
+    "qty": 500,
+    "unit": "gm",
+    "dept": "Vegetables",
+    "note": "Buy big and fresh"
+  },
+
+  {
+    "sNo": 6,
+    "iName": "Green chillies",
+    "qty": 200,
+    "unit": "gm",
+    "dept": "Vegetables",
+    "note": "Small"
+  },
+
+  {
+    "sNo": 7,
+    "iName": "Banana",
+    "qty": 1,
+    "unit": "kg",
+    "dept": "Fruits",
+    "note": "Fresh"
+  },
+
+  {
+    "sNo": 8,
+    "iName": "Oil",
+    "qty": 1,
+    "unit": "L",
+    "dept": "Edible oil",
+    "note": "Coconut oil"
+  },
+
+  {
+    "sNo": 9,
+    "iName": "Eggs",
+    "qty": 10,
+    "unit": "Nos",
+    "dept": "Eggs",
+    "note": "Chicken egg"
+  },
+
+  {
+    "sNo": 10,
+    "iName": "Fish",
+    "qty": 1,
+    "unit": "Kg",
+    "dept": "Fish",
+    "note": "Big fish"
+  }
+]
